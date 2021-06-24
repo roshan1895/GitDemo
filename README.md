@@ -14,8 +14,15 @@ These are the following Github Operations:-<br/>
 
 Now,we will cover all the operations with commands use for that operation.
 
-1.Create Repositories<br/>
-Repositories can be created by two way:-
+<h3>1.Create Repositories</h3><br/>
+Repositories can be created by two way:-<br/>
+ i) Create repo on github  and clone it to the system
+     
+     If i have created a repo "GitDemo" on github so we have to clone it in system by using "clone" command.
+     
+     command syntax:- git clone "repo_url"
+     Example:- git clone "
+   
 
 
 
