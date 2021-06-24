@@ -21,7 +21,20 @@ Repositories can be created by two way:-<br/>
      If i have created a repo "GitDemo" on github so we have to clone it in system by using "clone" command.
      
      command syntax:- git clone "repo_url"
-     Example:- git clone "
+     Example:- git clone "https://github.com/roshan1895/GitDemo.git"
+     
+     After command run successfully your github repo will be cloned on your sytem Now you can perform operations in it.
+     
+ ii) Create local repo on your sytem by using git "init" command.    
+ 
+     command syntax:- git init
+     Example:- git init
+     
+     After command run successfully your local repo will be created on your sytem Now you can perform operations in it.
+     
+     
+ <h3>2.Syncing Repositories</h3><br/>
+    
    
 
 
