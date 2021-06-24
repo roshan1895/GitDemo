@@ -21,7 +21,7 @@ Repositories can be created by two way:-<br/>
      If i have created a repo "GitDemo" on github so we have to clone it in system by using "clone" command.
      
      command syntax:- git clone "repo_url"
-     Example:- git clone "https://github.com/roshan1895/GitDemo.git"
+     Example:- git clone "https://github.com/roshan1895/GitDemo.git""
      
      After command run successfully your github repo will be cloned on your sytem Now you can perform operations in it.
      
@@ -34,6 +34,24 @@ Repositories can be created by two way:-<br/>
      
      
  <h3>2.Syncing Repositories</h3><br/>
+ After creating the github repo or local repo we have to peerform this operationto complete the rep setup process.
+  i) If we have created a local repo then we have to sync it with our global repo(github repo) for that we will add the remote.
+    
+      Command syntax:- git remote add origin "repo_url"
+      Example:- git remote add origin "https://github.com/roshan1895/GitDemo.git"
+      
+  ii) To fetch the latest update of repo we will use "pull" command.
+  
+      Command syntax:- git pull origin branch_name
+      Example:- git pull origin main
+      
+  iii) To update the repo we will use "push" command.
+  
+      Command syntax:- git pull origin branch_name
+      Example:- git pull origin main   
+      
+      
+ 
     
    
 
