@@ -2,12 +2,12 @@
 This Repo will help to learn github operations and it's commands
 
 <h3>Git Operations & Commands</h3>
-These are the following Github Operations:-
+These are the following Github Operations:-<br/><br/>
 1. Create Repositories<br/>
-2. Syncing Repositories
-3. Making Changes
-4. Parallel development
-5. Branching
-6. Merging
-7. Rebasing
-8. Git Flow
+2. Syncing Repositories<br/>
+3. Making Changes<br/>
+4. Parallel development<br/>
+5. Branching<br/><br/>
+6. Merging<br/>
+7. Rebasing<br/>
+8. Git Flow<br/>
