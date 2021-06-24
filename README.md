@@ -89,7 +89,7 @@ Repositories can be created by two way:-<br/>
       
       
       
-  <h2>Git Commands</h2><br/>
+  <h2>Git Commands</h2>
   git config<br/>
   git init<br/>
   git clone<br/>
