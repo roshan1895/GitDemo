@@ -51,6 +51,44 @@ Repositories can be created by two way:-<br/>
       Example:- git pull origin main   
       
       
+ <h3>3.Making Changes</h3><br/>
+ In this operation we will  add the file in queue to be commited,commit the code and indexing the file.
+  i) If we want to know which files are added to index and are raedy to commmit, we will use "status" command.
+    
+      Command syntax:- git status
+      Example:- git status
+      
+  ii) If we want to add files to our index of repo, we will use "add" command.
+     
+     -To add single file  in index. 
+      
+      Command syntax:- git add file_name
+      Example:- git add demo1.txt
+      
+      -To add Multiple files  in index. 
+      
+      Command syntax:- git add -A
+      Example:- git add -A
+      
+  iii) To Commit the added file of index,we will use "commit" command.
+  
+      -To commit single file . 
+      
+      Command syntax:- git commit -m "commit_message"
+      Example:- git commit -m "initial_chnages"
+      
+      -To commit Multiple files. 
+      
+      Command syntax:- git commit -a -m "commit_message"
+      Example:- git commit -a -m "changes"
+          
+  iv) To see the commits.
+  
+      Command syntax:- git log
+      Example:- git log
+      
+ 
+      
  
     
    
