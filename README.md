@@ -1,5 +1,5 @@
 # GitDemo
-This Repo will help to learn github operations and it's commands
+This Repo will help to learn git operations and it's commands
 
 <h3>Git Operations & Commands</h3>
 These are the following Github Operations:-<br/>
